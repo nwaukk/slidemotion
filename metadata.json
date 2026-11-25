@@ -1,0 +1,8 @@
+{
+  "name": "SlideMotion Studio",
+  "description": "Interactive presentation design studio, motion laboratory and educational trainer for transitions, animations, boolean shape merging and Morph effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
